@@ -1,0 +1,11 @@
+# Ignore virtual environment and cache folders
+Lib/
+Scripts/
+include/
+share/
+pyvenv.cfg
+__pycache__/
+.pytest_cache/
+.vscode/
+assets/
+
